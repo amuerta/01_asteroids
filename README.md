@@ -3,8 +3,9 @@
 Game is written with C using Raylib for drawing stuff on the screen and Nob.h for building the project.
 
 Check creative work of awesome people behind used technology:
-    - Tsoding creator of Nob.h
-    - Raysan5 creator of Raylib
+   
+- Tsoding creator of Nob.h
+- Raysan5 creator of Raylib
 
 Game is avilable for x86_64 both Windows and Linux.
 Sounds were taken from Pixabay and are under OpenSource licence.
