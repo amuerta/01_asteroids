@@ -1,4 +1,4 @@
-# Asteroids
+# Asteroids (rewritten: [Asteroids2](https://github.com/amuerta/asteroids2]))
 
 Game is written with C using Raylib for drawing stuff on the screen and Nob.h for building the project.
 
